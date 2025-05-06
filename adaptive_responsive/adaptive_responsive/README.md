@@ -7,13 +7,9 @@ aplikasi Flutter yang responsif dan adaptif pada berbagai ukuran layar (mobile, 
 
 ## Screenshot tampilan:
 
-### tampilan handphone
+### tampilan website
 
-![Handph0ne](images/handphone.png)
-
-### tampilan tablet
-
-![Tablet](images/tablet.png)
+![website](images/website.png)
 
 ## Penjelasan Tiap tampilan:
 
