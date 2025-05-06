@@ -13,12 +13,8 @@ aplikasi Flutter yang responsif dan adaptif pada berbagai ukuran layar (mobile, 
 
 ## Penjelasan Tiap tampilan:
 
-- **tampilan handphone: Pada perangkat berlayar kecil seperti smartphone, tombol-tombol disusun secara vertikal dalam bentuk daftar.
-  Susunan ini menjaga tampilan tetap rapi, mudah di-scroll, dan nyaman diakses pada layar terbatas.
-  Pada tampilan handphone, FAB berupa ikon bulat kecil di pojok kanan bawah.
-  FAB hanya menampilkan ikon "+" untuk menambah acara baru, menjaga tampilan tetap simpel di layar kecil**
-
-- **tampilan tablet: Pada perangkat dengan layar yang lebih besar seperti tablet (tablet.png), tombol-tombol ditampilkan dalam format grid dengan beberapa kolom.
-  Penataan ini memaksimalkan penggunaan ruang layar sehingga membuat interaksi pengguna lebih efisien dan tampilan lebih seimbang.
-  Pada tampilan tablet, FAB secara otomatis berubah menjadi FAB extended (memanjang), menampilkan ikon dan label teks ("Tambah Acara").
-  Karena ukuran layar lebih lebar, penggunaan teks tambahan membuat fitur lebih informatif dan tetap nyaman diakses.**
+- **Tampilan website: Pada perangkat dengan layar lebar seperti komputer desktop, daftar acara ditampilkan dalam format grid dengan beberapa kartu acara yang tersusun rapi.
+  Setiap kartu merepresentasikan satu kegiatan kampus dan disusun secara horizontal dan vertikal, memungkinkan pengguna melihat banyak informasi sekaligus tanpa perlu banyak menggulir halaman.
+  Navigasi utama berada di sisi kiri dalam bentuk sidebar, lengkap dengan ikon dan teks seperti Beranda, Acara, dan Profil untuk memudahkan akses antar halaman.
+  Tombol aksi mengambang (FAB) terletak di pojok kanan bawah, ditampilkan dalam bentuk tombol berwarna ungu bertuliskan "Tambah Acara", bukan hanya ikon, agar lebih informatif di layar besar.
+  Tampilan menggunakan tema gelap dengan teks terang untuk menciptakan kesan modern serta memastikan keterbacaan yang baik.**
